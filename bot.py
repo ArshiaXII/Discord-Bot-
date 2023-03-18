@@ -229,4 +229,4 @@ class PyAudioPCM(discord.AudioSource):
 
     def read(self) -> bytes:
         return self.input_stream.read(self.chunks)
-client.run('MTA3OTEyMjEwMjQyMDAwMDg2MA.GJklz6.m6dddyyCAAEgCMG2ovSvnaFdxeGM9-xVe74rK8')
+client.run('UR TOKEN')
